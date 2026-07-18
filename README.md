@@ -1,5 +1,3 @@
-<div align="center">
-
 ```
 $ whoami
 aviral -> final-year CS @ VIT-AP · cybersecurity & operating systems
@@ -12,15 +10,12 @@ network security · intrusion detection · federated learning
 operating systems · low-level systems programming
 ```
 
-</div>
-
 <br>
 
 ## `~/about`
 
-```yaml
+```
 $ cat about.md
-
 interned at Kudankulam Nuclear Power Plant on air-gapped network architecture and intranet security.
 still chasing that "how does this break" curiosity — mainly because of linux borks and programs
 i'd rather run a thing than read about it.
@@ -32,7 +27,6 @@ i'd rather run a thing than read about it.
 
 ```yaml
 $ cat current.md
-
 studying:   DSA (graphs, hashing, AVL trees)
 reading:    books on algorithms & Linux internals
 exploring:  low-level & OS-level programming
@@ -93,15 +87,11 @@ A weekend build to shake off DSA cobwebs — grid logic, hit detection, and a sc
 
 <br>
 
-<div align="center">
-
 **`~/contact`**
 
-```bash
+```
 $ cat contact.sh
 LinkedIn  → linkedin.com/in/aviralupadhyay16
 Email     → avi2k6.up@gmail.com
 GitHub    → github.com/maplelattte
 ```
-
-</div>
