@@ -5,42 +5,39 @@ $ whoami
 aviral -> final-year CS @ VIT-AP · cybersecurity & operating systems
 
 $ uname -a
-Linux daily-driver -> gnome CachyOS/x86_64
+Linux daily-driver -> cachyOS/x86_64 (gnome)
 
 $ cat interests.txt
 network security · intrusion detection · federated learning
-operating systems 
+operating systems · low-level systems programming
 ```
 
 </div>
 
 <br>
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-### `~/about`
-
-I spend most of my time somewhere between a terminal and a packet capture. Interned at **Kudankulam Nuclear Power Plant** on air-gapped network architecture and intranet security, and I've been chasing that "how does this actually break" curiosity ever since — through SIEM stacks, IDS tuning, and the occasional bricked bootloader.
-
-I'd rather run a thing than read about it. Most of what's below started as a normal experiment that got out of hand.
-
-</td>
-<td valign="top" width="50%">
-
-### `~/currently`
+## `~/about`
 
 ```yaml
-studying:   DSA (graphs, hashing, AVL trees)
-reading:    books related to algorithms and linux
-interested: in learning low level and os related topics
-learning:   dsa and some low level langs like go
+$ cat about.md
+
+interned at Kudankulam Nuclear Power Plant on air-gapped network architecture and intranet security.
+still chasing that "how does this break" curiosity — mainly because of linux borks and programs
+i'd rather run a thing than read about it.
 ```
 
-</td>
-</tr>
-</table>
+<br>
+
+## `~/currently`
+
+```yaml
+$ cat current.md
+
+studying:   DSA (graphs, hashing, AVL trees)
+reading:    books on algorithms & Linux internals
+exploring:  low-level & OS-level programming
+learning:   Go, and other low-level languages
+```
 
 <br>
 
@@ -49,9 +46,9 @@ learning:   dsa and some low level langs like go
 | domain | tools |
 |---|---|
 | **languages** | Java · Python · C++ · Bash |
-| **security** | Wazuh · Suricata · Wireshark · IDA Pro|
+| **security** | Wazuh · Suricata · Wireshark · IDA Pro |
 | **ml** | PyTorch · Flower · NumPy |
-| **systems** | CachyOS (arch-based) · Gnome |
+| **systems** | cachyOS (arch-based) · GNOME |
 | **infra** | Git · Docker · n8n |
 
 <br>
@@ -98,7 +95,7 @@ A weekend build to shake off DSA cobwebs — grid logic, hit detection, and a sc
 
 <div align="center">
 
-### `~/contact`
+**`~/contact`**
 
 ```bash
 $ cat contact.sh
