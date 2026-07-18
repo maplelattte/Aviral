@@ -25,7 +25,7 @@ i'd rather run a thing than read about it.
 
 ## `~/currently`
 
-```yaml
+```
 $ cat current.md
 studying:   DSA (graphs, hashing, AVL trees)
 reading:    books on algorithms & Linux internals
