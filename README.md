@@ -87,7 +87,7 @@ A weekend build to shake off DSA cobwebs — grid logic, hit detection, and a sc
 
 <br>
 
-**`~/contact`**
+## `~/contact`
 
 ```
 $ cat contact.sh
