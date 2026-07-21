@@ -3,7 +3,7 @@ $ whoami
 aviral -> final-year CS @ VIT-AP · cybersecurity & operating systems
 
 $ uname -a
-Linux daily-driver -> cachyOS/x86_64 (gnome)
+daily-driver -> windows 11 / cachyOS/x86_64 (gnome)
 
 $ cat interests.txt
 network security · intrusion detection · federated learning
