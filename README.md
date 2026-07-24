@@ -60,6 +60,17 @@ Built for 4G/5G network environments, this trains a shared detection model acros
 - `Python` `PyTorch` `Flower`
 
 </details>
+<details>
+<summary><b>linux-mem-extractor</b> — Linux Live Process Memory Extractor </summary>
+
+A lightweight CLI tool for incident response that parses virtual memory mappings and extracts live runtime artifacts directly from `/proc` without external drivers.
+
+- Parses memory address ranges and permission maps via `/proc/[pid]/maps`
+- Directly seeks and reads raw process memory buffers in `/proc/[pid]/mem`
+- Extracts ASCII string artifacts, environment variables, and in-memory secrets
+- `Python` `Linux Internals` `Forensics`
+
+</details>
 
 <details>
 <summary><b>youplay</b> — YouTube Music playlist downloader CLI</summary>
